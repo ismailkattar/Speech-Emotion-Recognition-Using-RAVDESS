@@ -20,25 +20,21 @@
    - Data augmentation techniques such as Noise Injection, Time Stretching, and Pitch Shifting were applied to improve the model's performance.
 
 5. **Results:**
-   ## **Results**
-The performance of the DL and ML models is summarized in the table below:
+   - The performance of the DL and ML models is summarized in the table below:
 
-## **Results**
-The performance of the models based on test accuracy is summarized below:
-
-| **Model**           | **Test Accuracy** |
-|---------------------|-------------------|
-| CNN Model 1         | 89.58%            |
-| CNN Model 2         | 91.84%            |
-| CNN Model 3         | 95.31%            |
-| SVM                 | 70.03%            |
-| Random Forest       | 40.32%            |
-| Logistic Regression | 48.26%            |
-| KNN                 | 44.16%            |
-| MLP                 | 67.08%            |
-| AdaBoost            | 31.13%            |
-| XGBoost             | 53.44%            |
-| Decision Tree       | 26.67%            |
+   | **Model**           | **Test Accuracy** |
+   |---------------------|-------------------|
+   | CNN Model 1         | 89.58%            |
+   | CNN Model 2         | 91.84%            |
+   | CNN Model 3         | 95.31%            |
+   | SVM                 | 70.03%            |
+   | Random Forest       | 40.32%            |
+   | Logistic Regression | 48.26%            |
+   | KNN                 | 44.16%            |
+   | MLP                 | 67.08%            |
+   | AdaBoost            | 31.13%            |
+   | XGBoost             | 53.44%            |
+   | Decision Tree       | 26.67%            |
 
 
  
