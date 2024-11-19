@@ -37,4 +37,9 @@
    | Decision Tree       | 26.67%            |
 
 
+## **Authors**
+
+- Bou Abdo Romy
+- Khoder Kattar Ismail
+
  
